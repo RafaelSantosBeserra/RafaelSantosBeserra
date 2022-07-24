@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1 align='center'>
+  Hey you!
+  <br/>
+  Bem-vindo ao meu perfil Github :dizzy:
+</h1>
 
-<!--
-**RafaelSantosBeserra/RafaelSantosBeserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Desenvolvedora Full Stack
+</p>
 
-Here are some ideas to get you started:
+### :nerd: Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+   Me chamo Rafael Santos Beserra, tenho 31 anos, e sou de Feira de Santana - BA. Estou em processo de transição de carreira para me tornar um Dev FullStack.
+  </em>
+</p>
+
+- :books: Atualmente estou aprendendo ReactJs.
+- :rocket: Aluna do curso Labenu.
+- :mailbox: Meu email: rs.beserra@gmail.com
+
+
+### :bar_chart: Metas 2022:
+
+- :open_file_folder: Expandir meu portfólio
+- :handshake: Contribuir em projetos open-source
+- :chart_with_upwards_trend: Conseguir experiência na área
+
+
+### ⚡️ Tecnologias:
+
+Estas são algumas das tecnologias e ferramentas que trabalho:
+
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,react,styledcomponents)](https://skillicons.dev)
+
+### :chart_with_upwards_trend: Minhas Estatísticas
+
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=RafaelSantosBeserra&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+### :speech_balloon: Quer me conhecer?
+
+<div>
+  <a href="https://www.linkedin.com/in/rafael-beserra-423a76b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5575983311873" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rs.beserra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+
+<p>:brain: <spam style="font-style:italic">"Recomeçar é dar uma nova chance a si mesmo, é renovar as esperanças na vida e o mais importante: acreditar em você de novo. "</spam></p>
