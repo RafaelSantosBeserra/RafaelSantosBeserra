@@ -17,7 +17,7 @@
 </p>
 
 - :books: Atualmente estou aprendendo ReactJs.
-- :rocket: Aluna do curso Labenu.
+- :rocket: Aluno do curso Labenu.
 - :mailbox: Meu email: rs.beserra@gmail.com
 
 
