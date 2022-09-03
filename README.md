@@ -8,7 +8,7 @@
   Desenvolvedora Full Stack
 </p>
 
-###Sobre mim:
+### Sobre mim:
 
 <p>
   <em>
