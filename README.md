@@ -16,8 +16,7 @@
   </em>
 </p>
 
-- :books: Atualmente estou aprendendo mais e mais.
-- :rocket: Aluno do curso Labenu.
+- :books: Atualmente aprendendo mais e mais.
 - :mailbox: Meu email: rs.beserra@gmail.com
 
 
