@@ -16,6 +16,7 @@
   </em>
 </p>
 
+- :rocket: Bunscando a tão sonhada transição de carreira.
 - :books: Atualmente aprendendo mais e mais.
 - :mailbox: Meu email: rs.beserra@gmail.com
 
