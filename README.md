@@ -21,7 +21,7 @@
 - :mailbox: Meu email: rs.beserra@gmail.com
 
 
-### :bar_chart: Metas 2022:
+### :bar_chart: Metas 2023:
 
 - :open_file_folder: Expandir meu portfólio
 - :handshake: Contribuir em projetos open-source
