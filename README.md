@@ -12,7 +12,7 @@
 
 <p>
   <em>
-   Me chamo Rafael Santos Beserra, tenho 33 anos, e sou de Feira de Santana - BA. Estou em processo de transição de carreira para me tornar um Dev FullStack.
+   Me chamo Rafael Santos Beserra, tenho 32 anos, e sou de Feira de Santana - BA. Estou em processo de transição de carreira para me tornar um Dev FullStack.
   </em>
 </p>
 
@@ -21,7 +21,7 @@
 - :mailbox: Meu email: rs.beserra@gmail.com
 
 
-### :bar_chart: Metas 2023:
+### :bar_chart: Metas 2024:
 
 - :open_file_folder: Expandir meu portfólio
 - :handshake: Contribuir em projetos open-source
